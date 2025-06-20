@@ -1,0 +1,12 @@
+{
+    "my_bot": {
+        "bot_name": "my_bot",
+        "token_symbol": "HYPE",
+        "wallet_address": "0x664771d329742D9A9a9750441f339Ddcc7E96782",
+        "private_key": "994ff6103d5d8f615c731370243367d6a9c788d90e83b3b0c42b92e24582ebac",
+        "min_price": 40.2,
+        "max_price": 40.4,
+        "bin_step": 0.1,
+        "order_size": 0.3
+    }
+}
